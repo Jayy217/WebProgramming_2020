@@ -1,0 +1,54 @@
+html, body {
+    background-color: rgb(79, 190, 79);
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    box-shadow: 0 2px 5px;
+    width: 420px;
+    height: 360px;
+    background-color: white;
+    
+}
+
+.user {
+    background-color: rgb(245, 245, 245);
+    padding: 20px;
+    margin: 50px;
+    margin-bottom: 20px;
+    color: rgb(202, 202, 202);
+}
+
+.pass {
+    color: rgb(202, 202, 202);
+    background-color: rgb(245, 245, 245);
+    padding: 20px;
+    margin: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.login {
+    background-color: rgb(60, 179, 60);
+    padding: 20px;
+    margin: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+}
+
+.createAcc {
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+}
