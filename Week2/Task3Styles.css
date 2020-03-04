@@ -58,19 +58,19 @@ html, body {
 }
 
 .meh {
-    padding: 20px;
+    padding: 25px;
     padding-bottom: 0;
 }
 
 .idkisthisok {
     margin: 0;
-    padding: 10px;
+    padding: 0px;
     padding-left: 30px;
     padding-right: 30px;
     background-color: rgb(162, 97, 236);
     color: white;
     font-weight: 900;
-    font-size: 50px;
+    font-size: 70px;
 }
 
 .date1 {
