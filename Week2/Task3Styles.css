@@ -1,0 +1,195 @@
+html, body {
+    margin: 0;
+    background-color: rgb(60, 47, 68);
+    font-family: 'Roboto', sans-serif;
+}
+
+.h1 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 40px;
+    color: rgb(219, 219, 219);
+    font-weight: 400;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+}
+
+.box {
+    width: 600px;
+    height: 990px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 30px;
+    margin-right: 0;
+}
+
+.img {
+    margin: 0;
+}
+
+.title {
+    padding-left: 20px;
+    background-color: white;
+}
+
+.likes {
+    color: rgb(170, 170, 170);
+}
+
+.lorem {
+    font-size: 30px;
+    margin: 0;
+}
+
+.readmore {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    margin-top: 40px;
+    border-top: dotted 1px rgb(190, 190, 190);
+    padding-right: 0;
+    font-size: 25px;
+    font-weight: px;
+}
+
+.meh {
+    padding: 20px;
+    padding-bottom: 0;
+}
+
+.idkisthisok {
+    margin: 0;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(162, 97, 236);
+    color: white;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.date1 {
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    background-color: rgb(162, 97, 236);
+    margin: 0;
+    padding: 0px;
+    padding-right: 50px;
+    font-size: 18px;
+}
+
+.june15 {
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 35px;
+}
+
+.june {
+    color: black;
+    padding: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+}
+
+.fifteen {
+    padding: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.date2 {
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    background-color: rgb(181, 149, 218);
+    margin: 0;
+    padding: 0px;
+    padding-right: 50px;
+    font-size: 18px;
+}
+
+.july05 {
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 35px;
+}
+
+.july {
+    color: black;
+    padding: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+}
+
+.five {
+    padding: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.date3 {
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    background-color: rgb(162, 97, 236);
+    margin: 0;
+    padding: 0px;
+    padding-right: 50px;
+    font-size: 17px;
+}
+
+.aug18 {
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 35px;
+}
+
+.aug {
+    color: black;
+    padding: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+}
+
+.eighteen {
+    padding: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(31, 26, 36);
+    color: white;
+    padding: 20px;
+    padding-bottom: 35px;
+    margin: 0;
+}
+
+.bigleta {
+    font-size: 15px;
+    margin:0;
+    padding-top: 15px;
+}
+
+.smallleta {
+    font-size: 12px;
+}
