@@ -1,0 +1,134 @@
+html, body {
+    margin: 0;
+    background-color: rgb(59, 63, 87);
+    font-family: 'Spartan', sans-serif;
+}
+
+.connect {
+    display: flex;
+    justify-content: center;
+    margin-left: 0;
+    margin-right: 30px;
+}
+
+.space {
+    margin-left: 30px
+}
+
+.topmargin {
+margin-top: 90px;
+}
+
+.f {
+    background-color: #3b5998;
+    text-decoration: none;
+    padding: 18px;
+    padding-left: 20px;
+    padding-right: 45px;
+    margin-left: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+.t {
+    text-decoration: none;
+    margin-top: 50px;
+    padding: 18px;
+    padding-left: 20px;
+    padding-right: 38px;
+    background-color: #00acee;
+    color: white;
+}
+
+.signup {
+    margin-left: 18px;
+    margin-top: 17px;
+    color: white;
+    text-align: center;
+
+}
+
+
+.firstname {
+    padding: 15px;
+    padding-left: 20px;
+    background-color: white;
+    color: rgb(199, 199, 199);
+    padding-right: 187px;
+    border-left: rgb(81, 143, 81) solid 5px;
+}
+
+.lastname {
+    padding: 15px;
+    padding-left: 20px;
+    background-color: white;
+    margin-left: 5px;
+    padding-right: 170px;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.email {
+    background-color: white;
+    padding: 15px;
+    padding-right: 425px;
+    padding-left: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    
+}
+
+
+.pass {
+    background-color: white;
+    padding: 15px;
+    padding-right: 516px;
+    padding-left: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    
+}
+
+.create {
+    margin-right: 85px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-bottom: 27px;
+ 
+}
+
+.tc {
+    text-decoration: none;
+    color: #1b94c4;
+}
+
+.btn {
+    padding: 20px;
+    background-color: rgb(95, 173, 108);
+    color: white;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-left: 228px;
+    padding-right: 228px;
+    text-decoration: none;
+}
+
+.w3 {
+    text-decoration: none;
+    color: rgb(104, 155, 233);
+}
+
+.template {
+    margin-left: 40px;
+    color: white;
+    margin-top: 40px;
+    text-align: center;
+}
+
