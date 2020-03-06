@@ -2,6 +2,7 @@ html, body {
     margin: 0;
     background-color: rgb(59, 63, 87);
     font-family: 'Spartan', sans-serif;
+    font-family: 'FontAwesome' !important;
 }
 
 .connect {
