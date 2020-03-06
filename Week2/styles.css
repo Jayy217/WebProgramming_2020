@@ -3,12 +3,13 @@ html, body {
     margin: 0;
 }
 
-.pad {
-    padding: 40px
-}
-
-.divindiv {
-    font-weight: bolder;
+.flex {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 40px;
+    margin-right: 0;
+    align-items: center;
 }
 
 .header {
@@ -20,15 +21,16 @@ html, body {
     color: white;
 }
 
-.button { 
+.button {
     background-color: #8eba3e;
     padding: 20px;
-    text-align: center; 
-    border-radius:5px;
+    text-align: center;
+    border-radius: 5px;
     line-height: 60px;
     text-decoration: none;
     color: white;
     text-align: center;
+    margin-right: 370px;
 }
 
 .footer {
@@ -38,8 +40,31 @@ html, body {
     padding-top: 50px;
     font-family: 'Oxanium';
     color: #868686;
+    margin: 0;
 }
 
 .header h1 {
     margin: 0;
+}
+
+.hi {
+    padding-right: 390px;
+}
+
+.btw {
+    margin-right: 20px;
+}
+
+.pen {
+    margin-left: ;
+    margin-right: 525px;
+}
+
+.gap {
+  line-height: 200%;
+}
+
+.bacon {
+    text-decoration: none;
+    color: rgb(57, 146, 57);
 }

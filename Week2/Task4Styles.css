@@ -35,7 +35,7 @@ margin-top: 90px;
     margin-top: 50px;
     padding: 18px;
     padding-left: 20px;
-    padding-right: 38px;
+    padding-right: 45px;
     background-color: #00acee;
     color: white;
 }
@@ -54,7 +54,7 @@ margin-top: 90px;
     padding-left: 20px;
     background-color: white;
     color: rgb(199, 199, 199);
-    padding-right: 187px;
+    padding-right: 195px;
     border-left: rgb(81, 143, 81) solid 5px;
 }
 
@@ -63,7 +63,7 @@ margin-top: 90px;
     padding-left: 20px;
     background-color: white;
     margin-left: 5px;
-    padding-right: 170px;
+    padding-right: 178px;
 }
 
 .flex {
@@ -74,8 +74,8 @@ margin-top: 90px;
 .email {
     background-color: white;
     padding: 15px;
-    padding-right: 425px;
-    padding-left: 20px;
+    padding-right: 445px;
+    padding-left: 18px;
     margin-left: 40px;
     margin-right: 40px;
     margin-top: 20px;
@@ -86,7 +86,7 @@ margin-top: 90px;
 .pass {
     background-color: white;
     padding: 15px;
-    padding-right: 516px;
+    padding-right: 533px;
     padding-left: 20px;
     margin-left: 40px;
     margin-right: 40px;
@@ -115,9 +115,10 @@ margin-top: 90px;
     text-align: center;
     margin-left: 40px;
     margin-right: 40px;
-    padding-left: 228px;
-    padding-right: 228px;
+    padding-left: 240px;
+    padding-right: 240px;
     text-decoration: none;
+    margin: 0;
 }
 
 .w3 {
