@@ -8,7 +8,7 @@ html, body {
     display: flex;
     justify-content: center;
     margin-left: 0;
-    margin-right: 30px;
+    margin-right: 0px;
 }
 
 .space {
@@ -16,7 +16,7 @@ html, body {
 }
 
 .topmargin {
-margin-top: 90px;
+    margin-top: 90px;
 }
 
 .f {
@@ -25,7 +25,7 @@ margin-top: 90px;
     padding: 18px;
     padding-left: 20px;
     padding-right: 45px;
-    margin-left: 30px;
+    margin-left: 0px;
     text-decoration: none;
     color: white;
 }
@@ -41,66 +41,39 @@ margin-top: 90px;
 }
 
 .signup {
-    margin-left: 18px;
+    margin-left: 10px;
     margin-top: 17px;
     color: white;
     text-align: center;
-
 }
-
 
 .firstname {
     padding: 15px;
     padding-left: 20px;
-    background-color: white;
-    color: rgb(199, 199, 199);
-    padding-right: 195px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-right: 119px;
     border-left: rgb(81, 143, 81) solid 5px;
 }
 
 .lastname {
     padding: 15px;
     padding-left: 20px;
-    background-color: white;
     margin-left: 5px;
-    padding-right: 178px;
+    padding-right: 107px;
 }
 
 .flex {
     display: flex;
     justify-content: center;
-}
-
-.email {
-    background-color: white;
-    padding: 15px;
-    padding-right: 445px;
-    padding-left: 18px;
-    margin-left: 40px;
-    margin-right: 40px;
-    margin-top: 20px;
-    
-}
-
-
-.pass {
-    background-color: white;
-    padding: 15px;
-    padding-right: 533px;
-    padding-left: 20px;
-    margin-left: 40px;
-    margin-right: 40px;
-    margin-top: 20px;
-    
+    align-items: center;
 }
 
 .create {
-    margin-right: 85px;
+    margin-right: 100px;
     color: white;
     margin-top: 20px;
-    margin-left: 5px;
     margin-bottom: 27px;
- 
 }
 
 .tc {
@@ -133,3 +106,28 @@ margin-top: 90px;
     text-align: center;
 }
 
+.input {
+    padding: 15px;
+    padding-right: 425px;
+    margin: 15px;
+}
+
+::placeholder {
+    font-weight: bold;
+    font-size: medium;
+}
+
+:-ms-input-placeholder {
+    font-weight: bold;
+    font-size: medium;
+}
+
+:-moz-placeholder {
+    font-weight: bold;
+    font-size: medium;
+}
+
+::-webkit-input-placeholder {
+    font-weight: bold;
+    font-size: medium;
+}
