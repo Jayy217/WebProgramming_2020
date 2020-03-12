@@ -38,18 +38,45 @@ html, body {
 
 .login {
     background-color: rgb(60, 179, 60);
-    padding: 20px;
+    padding: 18px;
     margin: 50px;
+    padding-left: 138px;
+    padding-right: 138px;
     margin-top: 20px;
     margin-bottom: 20px;
     text-align: center;
     color: white;
+    text-decoration: none;
 }
 
 .createAcc {
     text-align: center;
+    margin-top: 35px;
 }
 
 .link {
     text-decoration: none;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    padding: 20px;
+    padding-right: 140px;
+    margin-top: 50px;
+    background-color: rgb(243, 243, 243);
+    border: none;
+}
+
+.input1 {
+    padding: 20px;
+    padding-right: 140px;
+    margin-top: 20px;
+    background-color: rgb(243, 243, 243);
+    border: none;
+    margin-bottom: 20px;
 }
