@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="Task1.css">
+    
+    <title>JS Task 1</title>
+</head>
+<body>
+    <p class = "jst"><b>JavaScript time!</b></p>
+    <button class = "btn" id = "btn">Whats the time javascript?</button>
+    <br>
+    <div id="date" class ="date"></div>
+    
+    <script>
+        let date = document.getElementById("date");
+        let btn = document.getElementById("btn")
+
+        btn.onclick = function (){
+            date.innerHTML = new Date();
+        }
+
+    </script>
+</body>
+</html>

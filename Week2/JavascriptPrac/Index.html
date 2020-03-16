@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <button id="clickMeButton">Add 1 to count</button>
+    <br>
+    <button id="dontClickMeButton">Take 1 from count</button>
+    <div id="counter"></div>
+
+    <script type="text/javascript">
+
+        let count = 0;
+        let clickMeButton = document.getElementById("clickMeButton");
+        let dontClickMeButton = document.getElementById("dontClickMeButton");
+        let counter = document.getElementById("counter");
+       
+        console.log(clickMeButton);
+        console.log(dontClickMeButton);
+        
+
+        clickMeButton.onclick = function() {
+            clickMeButton.style.backgroundColor = "red";
+            clickMeButton.style.padding = "20px";
+            count++;
+            counter.innerHTML = count;     
+        }
+        dontClickMeButton.onclick = function() {
+            dontClickMeButton.style.backgroundColor = "green"
+            dontClickMeButton.style.padding = "20px";
+            count--;
+            counter.innerHTML = count; 
+        }
+
+    </script>
+</body>
+
+</html>
