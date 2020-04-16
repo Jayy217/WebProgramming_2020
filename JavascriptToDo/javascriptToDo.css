@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+}
+
+.center {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.input {
+    padding: 5px;
+    padding-right: 100px;
+    flex: center;
+    margin-right: 5px;
+}
+
+.items {
+    margin-left: 45%;
+}
