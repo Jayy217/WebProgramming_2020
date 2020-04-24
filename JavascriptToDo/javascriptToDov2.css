@@ -14,13 +14,13 @@ body {
 #theInput {
     width: 70%;
     padding: 10px;
-    float: left;
+    float: center;
     margin: 0;
 }
 
 .create-button {
     padding: 11px;
-    float: left;
+    float: center;
     text-align: center;
     cursor: pointer;
     border: none;
